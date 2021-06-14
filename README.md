@@ -5,3 +5,6 @@ This is kind of project that deals with the buying and selling of the Real Estat
 This project file includes entire project along with the sql of the database and the class diagram that can be viewed on star uml. 
 
 ***This project has very basic front end which is built on simple console.***
+
+# How to run
+Clone the project and execute it in Java IDE directly. Update the database connections according to your database.
